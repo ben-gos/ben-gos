@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @ben-gos
-- 👀 I’m interested in yes
-- 🌱 I’m currently learning no
-- 💞️ I’m looking to collaborate on maby
-- 📫 How to reach me cant
 - what
   
 <!---
